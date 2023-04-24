@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Robotix</h1>
+<div align="center"><h1 align="center">Hi 👋, I'm Robotix</h1>
 <h3 align="center">A passionate backend and DevOps developer from Germany</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realrobotix&theme=onedark&row=1&rank=-C,-B&no-frame=true" alt="realrobotix" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realrobotix&theme=onedark&column=5&rank=-C,-B&no-frame=true" alt="realrobotix" /></a> </p><div/>
 <br>
 
 - 🔭 I’m currently working on [Create Big Cannons](https://github.com/Cannoneers-of-Create/CreateBigCannons)
