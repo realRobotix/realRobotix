@@ -10,9 +10,9 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=realrobotix&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="realrobotix" /></p>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realrobotix&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="realrobotix" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realrobotix&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="realrobotix" /></p>
-<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realrobotix&theme=onedark&hide_border=true" alt="realrobotix" /></p>
 
