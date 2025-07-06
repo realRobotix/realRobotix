@@ -5,8 +5,6 @@
 <br>
 
 - 🔭 I’m currently working on [Create Big Cannons](https://github.com/Cannoneers-of-Create/CreateBigCannons)
-- 🔭 I’m currently working on [Create Technomancy](https://discord.gg/GGXudJTSzb)
-- 🔭 I’m currently working on [Liftoff](https://discord.gg/W5pz7gtJp7)
 
 <br>
 <div>
